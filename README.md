@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Director of Research and Development with over 10 years of experience leading teams. I hold 20 patents in the DNA sequencing space and was part of the teams at Illumina that developed the iSeq100, NextSeq2000, and NovaSeqX. 
+I'm a Director of Research and Development with over 10 years of experience leading teams. I hold 20 patents in the DNA sequencing space and was part of the teams at Illumina that developed the iSeq100, NextSeq2000, and NovaSeqX DNA sequencing systems. 
 
 I'm currently working with Tempus AI developing molecular diagnostics and AI technology for use in precision medicine. I'm passionate about contributing to products that make the world a better place.
 
